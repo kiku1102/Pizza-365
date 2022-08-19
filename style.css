@@ -1,0 +1,15 @@
+.navbar-menu{
+    background-color: orange;
+}
+.text-clor{
+    color: orange;
+}
+.border-bottom {
+    border-bottom: 1px solid #ffa500!important;
+}
+.btn-with {
+    width: 100%;
+}
+.size-type {
+    min-height: 244px;
+}
